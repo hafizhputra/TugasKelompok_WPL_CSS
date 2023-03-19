@@ -1,0 +1,63 @@
+/* navbar  */
+
+.box {
+  max-width: 720px;
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+
+  height: 2531.8px;
+  border: 0px solid #e2e8f0;
+  /* padding: 24px 24px 24px 24px; */
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  background-color: #ffffff;
+  display: block;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.navbar1 {
+  background-color: #edf2f7;
+  border-radius: 12px;
+  display: block;
+  padding: 24px 24px 24px 24px;
+}
+
+.grid1 {
+  /* display: flex; */
+  justify-content: space-between;
+  align-items: center;
+  /* background-color: blueviolet; */
+}
+
+/* .logo {
+  background-color: rgb(0, 255, 13);
+} */
+
+.logo-sekai {
+  width: 68%;
+}
+
+.navigation {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+  /* background-color: rgb(255, 0, 0); */
+}
+
+.button_dark {
+  padding-right: 45px;
+}
+
+/* batas navbar  */
+
+.content1 {
+  background-color: #edf2f7;
+  border-radius: 12px;
+  display: block;
+  padding: 24px 24px 24px 24px;
+  margin-top: 25px;
+}
