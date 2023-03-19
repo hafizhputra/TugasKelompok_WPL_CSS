@@ -5,8 +5,8 @@
   width: 94%;
   margin-left: auto;
   margin-right: auto;
-
-  height: 2531.8px;
+  height: 2300.8px;
+  /* height: 2531.8px; */
   border: 0px solid #e2e8f0;
   /* padding: 24px 24px 24px 24px; */
   margin-top: 20px;
@@ -54,10 +54,100 @@
 
 /* batas navbar  */
 
-.content1 {
+/* content */
+
+.content{
   background-color: #edf2f7;
   border-radius: 12px;
+  margin-top: 25px;
+  /* background-color: aqua; */
+}
+
+.content-img {
+  /* background-color: #0080ff; */
+  
+  border-radius: 12px;
   display: block;
-  padding: 24px 24px 24px 24px;
+ padding-top: 15px;
+ 
+}
+
+.content-img2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.text-content{
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  /* background-color: aqua; */
+}
+
+
+
+/* batas content */
+
+
+/* bagikan */
+
+.bagikan{
+  background-color: #edf2f7;
+  border-radius: 12px;
+  margin-top: 25px;
+  /* padding: 5px; */
+  /* background-color: aqua; */
+}
+
+
+/* batas bagikan */
+
+/* deskripsi */
+.deskripsi{
+  background-color: #edf2f7;
+  border-radius: 12px;
   margin-top: 25px;
 }
+/* batas deskripsi */
+
+
+/* sumber */
+.sumber{
+  background-color: #edf2f7;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+/* batas sumber*/
+
+
+/* discord */
+.discord{
+  background-color: #edf2f7;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+/* batas discord*/
+
+/* footer */
+
+.footer{
+  background-color: #ffffff;
+  border-radius: 12px;
+  margin-top: 25px;
+}
+
+.footer-content button{
+  display: block;
+}
+
+.footer-content .link1{
+  display: block;
+}
+.footer-content span{
+  display: block;
+}
+
+
+/* batas footer */
